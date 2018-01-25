@@ -83,7 +83,7 @@ def main():
 
 ### Kirjautuminen
 
-Sisäänkirjautuminen aloittaa asiakkaan session. On tärkeää, että sisäänkirjautuminen tehdään vain kerran, ja kaikki kirjautumisen vaativat pyynnöt tehdään samalla sessiolla. Mikäli haluat käyttää kumppanitunnusta, tulee tunniste lähettää kirjautumispyynnön `affiliateId` kentässä.
+Sisäänkirjautuminen aloittaa asiakkaan session. On tärkeää, että sisäänkirjautuminen tehdään vain kerran, ja kaikki kirjautumisen vaativat pyynnöt tehdään samalla sessiolla.
 
 Pyyntö:
 ```
